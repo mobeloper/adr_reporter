@@ -1,2 +1,2 @@
 # ADR Reporter
-Adverse Drug Reactions to Report Any Pharmaceuticals and Medical Device Observations from Users and Patients
+Platform to report Adverse Drug Reactions (ADR) and Medical Device Observations from Users and Patients
